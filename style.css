@@ -2,8 +2,12 @@ body {
     background: #CCCCCC;
 }
 
+#banner {
+    width: 100%;
+}
+
 h1 {
-    color: purple;
+    color: rgb(105, 10, 105);
     background: rgb(232, 224, 228);
     text-align: center;
 }
@@ -11,6 +15,10 @@ h1 {
 p {
     text-align: center;
     font-size: 20px;
+}
+
+#missao {
+    font-size: 30px;
 }
 
 em strong {
