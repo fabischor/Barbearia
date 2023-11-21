@@ -8,9 +8,14 @@ body {
 
 .principal {
     background: #CCCCCC;
+    padding: 30px;
 }
 
-h1 {
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
     color: rgb(105, 10, 105);
     background: rgb(232, 224, 228);
     text-align: center;
@@ -35,8 +40,16 @@ em strong {
 
 .beneficios {
     background: #FFFFFF;
+    padding: 20px;
 }
 
-h2 {
-    text-align: center;
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios {
+    width: 50%;
 }
